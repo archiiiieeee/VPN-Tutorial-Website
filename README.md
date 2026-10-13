@@ -1,2 +1,2 @@
-# VPN-Tutorial-Website
-M03 Project on Cybersecurity, step by step on setting up VPN on Windows computer.
+# VPN Tutorial Website
+Learn How to set up a VPN with a detailed step by step tutorial.
